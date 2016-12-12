@@ -7,7 +7,7 @@ publishdir = "docs"
 [params]
 	cdn = false
     partner = false
-	description = ""
+	description = "Tanzen mit guter Laune"
     defaultHeader = "header/two.jpg"
 
 [[menu.secondary]]
