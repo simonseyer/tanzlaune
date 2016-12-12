@@ -1,0 +1,23 @@
+languageCode = "de-de"
+baseurl = "https://eldorado234.github.io/tanzlaune/"
+title = "Tanzlaune"
+theme = "schulsportverein"
+publishdir = "docs"
+
+[params]
+	cdn = false
+    partner = false
+	description = ""
+    defaultHeader = "header/two.jpg"
+
+[[menu.secondary]]
+    name = "Facebook"
+    weight = 0
+    identifier = "facebook"
+    url = "https://www.facebook.com/tanzlaune.wiesbaden/"
+
+[[menu.secondary]]
+    name = "Der Schulsportverein"
+    weight = 10
+    identifier = "verein"
+    url = "https://www.schulsportverein.de"
