@@ -15,13 +15,13 @@ cache:
   directories:
     - tmp/image_cache
     - vendor/bundle
+    - $GOPATH
 
 install:
   - bundle install --deployment
 
 before_script:
-  - git clone --branch v2 https://github.com/go-yaml/yaml $GOPATH/src/gopkg.in/yaml.v2
-  - go get -u -v github.com/spf13/hugo
+  - go get -v github.com/spf13/hugo
 
 script:
   - hugo
@@ -30,4 +30,3 @@ script:
 
 after_success:
   - ./scripts/deploy.sh
-  
