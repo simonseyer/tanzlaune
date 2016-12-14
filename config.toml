@@ -5,7 +5,7 @@ theme = "schulsportverein"
 publishdir = "docs"
 
 [params]
-	cdn = false
+	cdn = true
     partner = false
 	description = "Tanzen mit guter Laune"
     defaultHeader = "header/two.jpg"
