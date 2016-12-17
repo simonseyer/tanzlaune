@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://eldorado234.github.io/tanzlaune/</loc>
+    <lastmod>2016-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://eldorado234.github.io/tanzlaune/anfaenger/</loc>
     <lastmod>2016-12-10T00:00:00+00:00</lastmod>
   </url>
@@ -49,23 +54,6 @@
   <url>
     <loc>https://eldorado234.github.io/tanzlaune/workshops/</loc>
     <lastmod>2016-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eldorado234.github.io/tanzlaune/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://eldorado234.github.io/tanzlaune/</loc>
-    <lastmod>2016-12-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://eldorado234.github.io/tanzlaune/tags/_home/</loc>
-    <lastmod>2016-12-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>
