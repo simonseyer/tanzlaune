@@ -11,9 +11,9 @@ menu:
 
 Tanzen zusammen mit Freunden in lockerer und angenehmer Atomsphäre. Hans-Hermann und Susanne verwöhnen uns mit ihren Leckereien.
 
-Termine für den Samstagstanz:
-Samstag, 05. November 2016 – Tanz für Manu
-Samstag, 03. Dezember 2016
+Termine für den **Samstagstanz**:  
+Samstag, 04. Februar 2017  
+Samstag, 11. März 2017  
 
 jeweils von 20.00 – 23.00 Uhr
 

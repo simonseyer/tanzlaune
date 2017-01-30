@@ -10,16 +10,15 @@ tags: _home
 
 ## Tanzen mit guter Laune
 
-Liebe Freunde,  
+Es wünschen euch
 
-die Tanzlaunekurse beginnen wieder am 29. und 30. September 2016.  
-Die Anfängergruppe startet am 29.09.16 um 18.30 Uhr.  
+**alles Gute für 2017**
 
-Ich freue mich auf euch  
+die Mitarbeiter und Helfer von
+Tanzlaune und vom 1. Wiesbadener Schulsportverein.
 
-**Henry**
+Unsere Kurse starten im Neuen Jahr am
+12. und 13. Januar 2017
+Die Anfängergruppe beginnt am 12.01.17 um 18:30 Uhr.
 
----
-
-Sympathische Männer mit Tanzlaune gesucht für unsere Anfänger- und Fortgeschrittenen Kurse!  
-Bitte mit uns sprechen. 
+Wir suchen *sympatische Männer* mit Tanzlaune!
