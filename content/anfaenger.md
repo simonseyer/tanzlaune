@@ -1,6 +1,6 @@
 ---
 title: Anfängerkurse
-header: header/two.jpg
+header: header/three.jpg
 date: "2016-12-10"
 menu: 
     main:
