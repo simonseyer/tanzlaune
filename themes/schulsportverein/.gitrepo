@@ -6,6 +6,6 @@
 [subrepo]
 	remote = git@github.com:Eldorado234/schulsportverein-hugo-theme.git
 	branch = master
-	commit = d8b716f7b17f39e88611ba07b51451cc68900024
-	parent = 063c6deee4c5e47f7fd2f2a8d4f956222ccea308
-	cmdver = 0.3.0
+	commit = 84b67226ab758be6efeb8dec60ed98395bece58c
+	parent = c608bf70ec8620521c9e9897a806e56d5fb3e010
+	cmdver = 0.3.1
