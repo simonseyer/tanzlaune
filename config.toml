@@ -2,7 +2,6 @@ languageCode = "de-de"
 baseurl = "https://eldorado234.github.io/tanzlaune/"
 title = "Tanzlaune"
 theme = "schulsportverein"
-publishdir = "docs"
 
 [params]
 	cdn = true
