@@ -10,15 +10,13 @@ Kind: home
 
 ## Tanzen mit guter Laune
 
-Es wünschen euch
+Wir, die Mitarbeiter und Helfer von
+Tanzlaune und vom 1. Wiesbadener Schulsportverein
 
-**alles Gute für 2017**
+**wünschen allen eine frohe Osterzeit!**
 
-die Mitarbeiter und Helfer von
-Tanzlaune und vom 1. Wiesbadener Schulsportverein.
+Unsere Kurse starten wieder nach den Osterferien, am
+23. und 24. April 2017
 
-Unsere Kurse starten im Neuen Jahr am
-12. und 13. Januar 2017
-Die Anfängergruppe beginnt am 12.01.17 um 18:30 Uhr.
-
-Wir suchen *sympatische Männer* mit Tanzlaune!
+*Sympatische Männer* mit Tanzlaune
+sind bei uns jederzeit willkommen!
