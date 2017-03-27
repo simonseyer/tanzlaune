@@ -8,7 +8,7 @@ menu:
 ---
 
 # Fortgeschrittene 2
-## Kurs 713
+## Kurs 723
 
 Die Gruppe hat ein so großes Repertoire, so dass immer mal lange nicht getanzte Kombinationen wieder aufgenommen und trainiert werden.
 
@@ -17,15 +17,14 @@ Probieren Sie es aus!
 
 <span style="font-size: 1.3em;">**[➡ jetzt anmelden](kontakt)**</span>
 
-### Kurs 713 tanzt am
+### Kurs 723 tanzt am
 
-12\. Januar 2017  
-19\. Januar 2017  
-26\. Januar 2017  
-02\. Februar 2017  
-09\. Februar 2017  
-16\. Februar 2017  
-23\. Februar 2017  
-02\. März 2017  
-09\. März 2017  
-16\. März 2017 (Abschlussabend)  
+20\. April 2017
+27\. April 2017
+04\. Mai 2017
+11\. Mai 2017
+18\. Mai 2017
+01\. Juni 2017
+08\. Juni 2017
+15\. Juni 2017
+22\. Juni 2017 (Abschlussabend)

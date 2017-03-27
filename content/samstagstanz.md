@@ -12,8 +12,10 @@ menu:
 Tanzen zusammen mit Freunden in lockerer und angenehmer Atomsphäre. Hans-Hermann und Susanne verwöhnen uns mit ihren Leckereien.
 
 Termine für den **Samstagstanz**:  
-Samstag, 04. Februar 2017  
-Samstag, 11. März 2017  
+Samstag, 13. Mai 2017  
+Samstag, 17. Juni 2017  
+Samstag, 23. September 2017  
+Samstag, 25. November 2017  
 
 jeweils von 20.00 – 23.00 Uhr
 
