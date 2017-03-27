@@ -18,12 +18,12 @@ Auch wenn wir keine offiziellen Pausen einlegen, steht jederzeit ein Mineralwass
 
 ### Kurs 722 tanzt am
 
-21\. April 2017
-28\. April 2017
-05\. Mai 2017
-12\. Mai 2017
-19\. Mai 2017
-02\. Juni 2017
-09\. Juni 2017
-16\. Juni 2017
-23\. Juni 2017 (Abschlussabend)
+21\. April 2017  
+28\. April 2017  
+05\. Mai 2017  
+12\. Mai 2017  
+19\. Mai 2017  
+02\. Juni 2017  
+09\. Juni 2017  
+16\. Juni 2017  
+23\. Juni 2017 (Abschlussabend)  

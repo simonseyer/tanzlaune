@@ -19,12 +19,12 @@ Probieren Sie es aus!
 
 ### Kurs 723 tanzt am
 
-20\. April 2017
-27\. April 2017
-04\. Mai 2017
-11\. Mai 2017
-18\. Mai 2017
-01\. Juni 2017
-08\. Juni 2017
-15\. Juni 2017
-22\. Juni 2017 (Abschlussabend)
+20\. April 2017  
+27\. April 2017  
+04\. Mai 2017  
+11\. Mai 2017  
+18\. Mai 2017  
+01\. Juni 2017  
+08\. Juni 2017  
+15\. Juni 2017  
+22\. Juni 2017 (Abschlussabend)  
