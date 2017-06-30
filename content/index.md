@@ -2,7 +2,7 @@
 title: Willkommen
 header: header/two.jpg
 date: "2016-12-10"
-menu: 
+menu:
     main:
         weight: 0
 Kind: home
@@ -10,13 +10,12 @@ Kind: home
 
 ## Tanzen mit guter Laune
 
-Wir, die Mitarbeiter und Helfer von
-Tanzlaune und vom 1. Wiesbadener Schulsportverein
+Nach dem hoffentlich für alle schönen Sommer laden wir ab Mitte September wieder zum Tanzen ein.
 
-**wünschen allen eine frohe Osterzeit!**
+Für euren Planer: Start des Anfängerkurses am 14.09.2017
 
-Unsere Kurse starten wieder nach den Osterferien, am
-23. und 24. April 2017
+## Es freuen uns auf euch:  
+Henry, die Mitarbeiter und Helfer von Tanzlaune und vom 1. Wiesbadener Schulsportverein
 
-*Sympatische Männer* mit Tanzlaune
-sind bei uns jederzeit willkommen!
+## *Sympatische Männer*  
+mit Tanzlaune sind bei uns jederzeit willkommen!
