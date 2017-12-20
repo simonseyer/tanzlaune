@@ -9,11 +9,11 @@ menu:
 
 # Samstagstanz
 
-Tanzen zusammen mit Freunden in lockerer und angenehmer Atomsphäre. Hans-Hermann und Susanne verwöhnen uns mit ihren Leckereien. Gäste sind gerne willkommen!
+Tanzen zusammen mit Freunden in lockerer und angenehmer Atomsphäre. Gäste sind gerne willkommen!
 
 Termine für den **Samstagstanz**:  
-Samstag, 23. September 2017  
-Samstag, 25. November 2017  
+Samstag, 24. Februar 2018  
+Samstag, 17. März 2018  
 
 jeweils von 20.00 – 23.00 Uhr
 

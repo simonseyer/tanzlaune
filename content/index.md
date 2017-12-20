@@ -10,11 +10,12 @@ Kind: home
 
 ## Tanzen mit guter Laune
 
-Nach dem hoffentlich für alle schönen Sommer laden wir ab Mitte September wieder zum Tanzen ein.
+Wünscht allen Tanzenden, Freunden und Freundinnen sowie allen Bekannten  
+ein schönes Weihnachtsfest und einen guten Rutsch ins neue Jahr!  
 
-Für euren Planer: Start des Anfängerkurses am 14.09.2017
+Die Tanzkurse starten wieder am 18. und 19. Januar 2018
 
-## Es freuen uns auf euch:  
+## Mit besten Wünschen
 Henry, die Mitarbeiter und Helfer von Tanzlaune und vom 1. Wiesbadener Schulsportverein
 
 ## *Sympatische Männer*  
