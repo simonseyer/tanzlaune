@@ -22,5 +22,7 @@ Durch Immigranten wurde dieser wunderschöne Tanz nach Portugal gebracht. Heute 
 
 ## Kizomba Kurs
 
-Zur Zeit findet jeden Sonntag von 18:00 bis 19:00 Uhr ein Fortgeschrittenen Kizomba Kurs statt. 
-Für Vereinsmitglieder kostet die 10er Karte 80 Euro, für Nicht-Mitglieder 110 Euro.
+Es findet jeden Sonntag ein  
+Anfängerkurs von 17:00 bis 18:00 Uhr und  
+Mittelstufenkurs von 18:00 bis 19:00 Uhr statt.  
+Für Vereinsmitglieder kostet die 10er Karte 80 Euro, für Nichtmitglieder 110 Euro.
