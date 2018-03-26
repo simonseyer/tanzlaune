@@ -7,16 +7,16 @@ menu:
         weight: 40
 ---
 
-# Samstagstanz
+# Samstagstanz  
 
-Tanzen zusammen mit Freunden in lockerer und angenehmer Atomsphäre. Gäste sind gerne willkommen!
+Tanzen zusammen mit Freunden in lockerer und angenehmer Atomsphäre. Gäste sind gerne willkommen!  
 
-Termine für den **Samstagstanz**:
-Samstag, 28. April 2018
-Samstag, 09. Juni 2018
-Samstag, 10. November 2018
+Termine für den **Samstagstanz**:  
+Samstag, 28. April 2018  
+Samstag, 09. Juni 2018  
+Samstag, 10. November 2018  
 
-jeweils von 20.00 – 23.00 Uhr
+jeweils von 20.00 – 23.00 Uhr  
 
-Eintritt: 5,- €
-Für Kursteilnehmer und Mitglieder des Schulsportvereins sind diese Veranstaltungen **kostenlos**!
+Eintritt: 5,- €  
+Für Kursteilnehmer und Mitglieder des Schulsportvereins sind diese Veranstaltungen **kostenlos**!  
