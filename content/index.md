@@ -10,13 +10,13 @@ Kind: home
 
 ## Tanzen mit guter Laune
 
-Wünscht allen Tanzenden, Freunden und Freundinnen sowie allen Bekannten  
-ein schönes Weihnachtsfest und einen guten Rutsch ins neue Jahr!  
+Es beginnt ein neuer Anfängerkurs nach den Osterferien!
 
-Die Tanzkurse starten wieder am 18. und 19. Januar 2018
+Wir starten am 12. April um 18:30 Uhr.
+Einzelpersonen bitte vorher mit uns in Kontakt treten!
 
-## Mit besten Wünschen
-Henry, die Mitarbeiter und Helfer von Tanzlaune und vom 1. Wiesbadener Schulsportverein
+## Es freuen sich auf euch
+Henry, die Mitarbeiter und Helfer von Tanzlaune sowie vom 1. Wiesbadener Schulsportverein
 
-## *Sympatische Männer*  
+## *Sympatische Männer*
 mit Tanzlaune sind bei uns jederzeit willkommen!
