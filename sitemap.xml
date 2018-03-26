@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.tanzlaune.de/tanzfruehstueck/</loc>
+    <lastmod>2018-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.tanzlaune.de/kizomba/</loc>
     <lastmod>2017-08-26T00:00:00+00:00</lastmod>
   </url>
@@ -63,7 +68,7 @@
   
   <url>
     <loc>https://www.tanzlaune.de/</loc>
-    <lastmod>2017-08-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
