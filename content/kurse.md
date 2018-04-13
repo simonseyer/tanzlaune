@@ -14,7 +14,7 @@ menu:
 donnerstags, 18:30 - 20:00 Uhr  
 Start: 12\. April 2018  
 
-Kosten: 125,00 € pro Person, 10 Abende  
+Kosten: 115,00 € pro Person, 9 Abende  
 incl. 2 x Samstagstanz  
 Ermäßigung für Mitglieder des Schulsportvereins 10,- €  
 
@@ -23,7 +23,7 @@ Ermäßigung für Mitglieder des Schulsportvereins 10,- €
 freitags, 19:00 - 20:30 Uhr  
 Start: 20\. April 2018  
 
-Kosten: 125,00 € pro Person, 10 Abende  
+Kosten: 105,00 € pro Person, 8 Abende  
 incl. 2 x Samstagstanz  
 Ermäßigung für Mitglieder des Schulsportvereins 10,- €  
 
@@ -32,6 +32,6 @@ Ermäßigung für Mitglieder des Schulsportvereins 10,- €
 donnerstags, 20:00 - 21:30 Uhr  
 Start: 12\. April 2018  
 
-Kosten: 125,00 € pro Person, 10 Abende  
+Kosten: 115,00 € pro Person, 9 Abende  
 incl. 2 x Samstagstanz  
 Ermäßigung für Mitglieder des Schulsportvereins 10,- €  

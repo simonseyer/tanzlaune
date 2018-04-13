@@ -25,7 +25,6 @@ Spaß und gute Laune werden wir vermitteln.
 03\. Mai 2018  
 17\. Mai 2018  
 24\. Mai 2018  
-31\. Mai 2018  
 07\. Juni 2018  
 14\. Juni 2018  
 21\. Juni 2018 (Abschlussabend)  

@@ -23,7 +23,6 @@ Auch wenn wir keine offiziellen Pausen einlegen, steht jederzeit ein Mineralwass
 04\. Mai 2018  
 18\. Mai 2018  
 25\. Mai 2018  
-01\. Juni 2018  
 08\. Juni 2018  
 15\. Juni 2018  
 22\. Juni 2018 (Abschlussabend)  
