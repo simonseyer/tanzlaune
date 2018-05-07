@@ -8,14 +8,15 @@ menu:
 Kind: home
 ---
 
-## Tanzen mit guter Laune
+## Tanzen mit guter Laune  
 
-Nach dem hoffentlich für alle schönen Sommer laden wir ab Mitte September wieder zum Tanzen ein.
+Es beginnt ein neuer Anfängerkurs nach den Osterferien!  
 
-Für euren Planer: Start des Anfängerkurses am 14.09.2017
+Wir starten am 12. April um 18:30 Uhr.  
+Einzelpersonen bitte vorher mit uns in Kontakt treten!  
 
-## Es freuen uns auf euch:  
-Henry, die Mitarbeiter und Helfer von Tanzlaune und vom 1. Wiesbadener Schulsportverein
+## Es freuen sich auf euch  
+Henry, die Mitarbeiter und Helfer von Tanzlaune sowie vom 1. Wiesbadener Schulsportverein  
 
 ## *Sympatische Männer*  
-mit Tanzlaune sind bei uns jederzeit willkommen!
+mit Tanzlaune sind bei uns jederzeit willkommen!  

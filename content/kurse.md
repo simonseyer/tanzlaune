@@ -9,29 +9,29 @@ menu:
 
 # Kurse für Anfänger und Wiederanfänger
 
-## Kurs 731  
+## Kurs 821  
 ## Anfängerkurs für Paare und Singles (Mit Schnupperabend)  
 donnerstags, 18:30 - 20:00 Uhr  
-Start: 14\. September 2017  
+Start: 12\. April 2018  
 
-Kosten: 125,00 € pro Person, 10 Abende  
+Kosten: 115,00 € pro Person, 9 Abende  
 incl. 2 x Samstagstanz  
 Ermäßigung für Mitglieder des Schulsportvereins 10,- €  
 
-## Kurs 732  
+## Kurs 822  
 ## Fortgeschrittene Gruppe 1  
 freitags, 19:00 - 20:30 Uhr  
-Start: 15\. September 2017  
+Start: 20\. April 2018  
 
-Kosten: 125,00 € pro Person, 10 Abende  
+Kosten: 105,00 € pro Person, 8 Abende  
 incl. 2 x Samstagstanz  
 Ermäßigung für Mitglieder des Schulsportvereins 10,- €  
 
-## Kurs 733  
+## Kurs 823  
 ## Fortgeschrittene Gruppe 2  
 donnerstags, 20:00 - 21:30 Uhr  
-Start: 14\. September 2017  
+Start: 12\. April 2018  
 
-Kosten: 125,00 € pro Person, 10 Abende  
+Kosten: 115,00 € pro Person, 9 Abende  
 incl. 2 x Samstagstanz  
 Ermäßigung für Mitglieder des Schulsportvereins 10,- €  
