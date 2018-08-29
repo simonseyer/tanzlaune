@@ -1,6 +1,6 @@
 ---
 title: Kizomba
-header: header/three.jpg
+header: header/kizomba.jpg
 date: "2017-08-26"
 menu: 
     main:
