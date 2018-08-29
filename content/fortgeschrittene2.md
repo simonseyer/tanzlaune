@@ -8,7 +8,7 @@ menu:
 ---
 
 # Fortgeschrittene 2
-## Kurs 823
+## Kurs 833
 
 Die Gruppe hat ein so großes Repertoire, so dass immer mal lange nicht getanzte Kombinationen wieder aufgenommen und trainiert werden.  
 
@@ -17,14 +17,15 @@ Probieren Sie es aus!
 
 <span style="font-size: 1.3em;">**[➡ jetzt anmelden](kontakt)**</span>
 
-### Kurs 823 tanzt am  
+### Kurs 833 tanzt am  
 
-12\. April 2018  
-19\. April 2018  
-26\. April 2018  
-03\. Mai 2018  
-17\. Mai 2018  
-24\. Mai 2018  
-07\. Juni 2018  
-14\. Juni 2018  
-21\. Juni 2018 (Abschlussabend)  
+13\. September 2018  
+27\. September 2018  
+25\. Oktober 2018  
+01\. November 2018  
+08\. November 2018  
+15\. November 2018  
+22\. November 2018  
+29\. November 2018  
+06\. Dezember 2018  
+13\. Dezember 2018 (Abschlussabend)  

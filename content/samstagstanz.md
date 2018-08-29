@@ -12,8 +12,6 @@ menu:
 Tanzen zusammen mit Freunden in lockerer und angenehmer Atomsphäre. Gäste sind gerne willkommen!  
 
 Termine für den **Samstagstanz**:  
-Samstag, 28. April 2018  
-Samstag, 09. Juni 2018  
 Samstag, 10. November 2018  
 
 jeweils von 20.00 – 23.00 Uhr  
