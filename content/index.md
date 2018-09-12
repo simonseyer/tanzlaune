@@ -13,7 +13,7 @@ Kind: home
 Es geht wieder los!  
 Die Kurse starten am 13. und 14. September  
 Ab dem 13. September tanzen Anfänger- und Wiederanfänger!  
-Einzelpersonen botte vorher mit uns in Kontakt treten!
+Einzelpersonen bitte vorher mit uns in Kontakt treten!
 
 ## Tanzfrühstück
 
