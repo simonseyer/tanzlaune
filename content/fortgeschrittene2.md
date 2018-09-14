@@ -20,6 +20,7 @@ Probieren Sie es aus!
 ### Kurs 833 tanzt am  
 
 13\. September 2018  
+20\. September 2018  
 27\. September 2018  
 25\. Oktober 2018  
 01\. November 2018  
@@ -27,5 +28,4 @@ Probieren Sie es aus!
 15\. November 2018  
 22\. November 2018  
 29\. November 2018  
-06\. Dezember 2018  
-13\. Dezember 2018 (Abschlussabend)  
+06\. Dezember 2018 (Abschlussabend)  
