@@ -10,18 +10,15 @@ Kind: home
 
 ## Tanzen mit guter Laune  
 
-Es geht wieder los!  
-Die Kurse starten am 13. und 14. September  
-Ab dem 13. September tanzen Anfänger- und Wiederanfänger!  
-Einzelpersonen bitte vorher mit uns in Kontakt treten!
+Wünscht allen Tanzenden, Freunden und Freundinnen sowie allen Bekannten  
+ein schönes Weihnachtsfest und einen guten Rutsch ins neue Jahr!  
+Die Tanzkurse starten wieder am 17. und 18. Januar 2019  
 
-## Tanzfrühstück
+## Mit besten Wünschen
 
-Nach langer Pause wieder ein Tanzfrühstück:  
-Am 23. September frühstücken und tanzen  
-
-## Es freuen sich auf euch  
-Henry, die Mitarbeiter und Helfer von Tanzlaune sowie vom 1. Wiesbadener Schulsportverein  
+Henry  
+und alle Helfer und Mitarbeiter  
+des 1. Wiesbadener Schulsportvereins  
 
 ## *Sympatische Männer*  
 mit Tanzlaune sind bei uns jederzeit willkommen!  

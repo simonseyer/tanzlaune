@@ -9,12 +9,16 @@ menu:
 
 # Samstagstanz  
 
-Tanzen zusammen mit Freunden in lockerer und angenehmer Atomsphäre. Gäste sind gerne willkommen!  
+Tanzen zusammen mit Freunden in lockerer und angenehmer Atomsphäre. Wir freuen uns über euren Beitrag von kleinen Leckereien für unser Buffet. Gäste sind gerne willkommen!  
 
-Termine für den **Samstagstanz**:  
-Samstag, 10. November 2018  
+Termine
+Samstag, 09. Februar 2019  
+Samstag, 15. Juni 2019  
+Samstag, 09. November 2019  
 
 jeweils von 20.00 – 23.00 Uhr  
+
+Bitte auch nach den Tanzfrühstücksterminen schauen.  
 
 Eintritt: 5,- €  
 Für Kursteilnehmer und Mitglieder des Schulsportvereins sind diese Veranstaltungen **kostenlos**!  

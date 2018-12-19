@@ -13,7 +13,8 @@ Am Sonntagmorgen mit sympathischen Menschen in schöner Atmosphäre frühstücke
 Wir sorgen für die Getränke und bitten, wenn möglich, einen kulinarischen Beitrag für unser Frühstücksbuffet beizutragen.  
 
 Termine für das **Tanzfrühstück**:  
-Sonntag, 23. September 2018  
+Sonntag, 17. März 2019  
+Sonntag, 22. September 2019
 
 von 11.00 – 14.00 Uhr  
 
