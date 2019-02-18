@@ -12,7 +12,6 @@ menu:
 Tanzen zusammen mit Freunden in lockerer und angenehmer Atomsphäre. Wir freuen uns über euren Beitrag von kleinen Leckereien für unser Buffet. Gäste sind gerne willkommen!  
 
 Termine
-Samstag, 09. Februar 2019  
 Samstag, 15. Juni 2019  
 Samstag, 09. November 2019  
 
