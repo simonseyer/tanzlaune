@@ -8,7 +8,7 @@ menu:
 ---
 
 # Anfängerkurs 1 für Paare und Singles
-## Kurs 911
+## Kurs 921
 
 Sie lernen die klassischen Standard-Tänze wie Langsamer Walzer, Foxtrott, Tango, Wiener Walzer und lateinamerikanische Tänze wie Cha-Cha-Cha, Rumba, Samba und Jive.  
 
@@ -17,17 +17,12 @@ Spaß und gute Laune werden wir vermitteln.
 
 <span style="font-size: 1.3em;">**[➡ jetzt anmelden](kontakt)**</span>
 
-## Kurs 911 tanzt am
+## Kurs 921 tanzt am
 
-17\. Januar 2019  
-24\. Januar 2019  
-31\. Januar 2019  
-07\. Februar 2019  
-14\. Februar 2019  
-21\. Februar 2019  
-28\. Februar 2019  
-07\. März 2019  
-14\. März 2019  
-21\. März 2019  
-28\. März 2019  
-04\. April 2019 (Abschlussabend)  
+02\. Mai 2019  
+09\. Mai 2019  
+16\. Mai 2019  
+23\. Mai 2019  
+06\. Juni 2019  
+13\. Juni 2019  
+27\. Juni 2019 (Abschlussabend)  

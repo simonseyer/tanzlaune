@@ -10,18 +10,13 @@ Kind: home
 
 ## Tanzen mit guter Laune  
 
-Den nächsten Sonntags-Event schon vormerken:  
-Am 17. März 2019 laden wir zum lockerem Tanz und Frühstücken ein.  
+Nach den schönen Ostertagen habt ihr sicher große Lust weiter zu tanzen!  
+Die Kurse starten am 02. und 03. Mai 2019.  
+Wir freuen uns auf euch!
 
-Das Buffet setzt sich aus eueren kulinarischen Beiträgen zusammen.  
-Das letzte Mal waren euere Leckereien einfach super!  
-Dafür noch einmal vielen Dank.  
-Weitere Angaben unter [Tanzfrühstück](tanzfruehstueck)
+## Samstagstanz
 
-## Tanzfrühstück  
-
-Die Tanzkurse laufen, jedoch ist ein Quereinsteig jederzeit möglich.  
-Die nächsten Kurse beginnen nach den Osterferien. Die Termine sind unter [Kurse](kurse) zu finden.
+Unser nächster lockerer Samstagstanz findet am 15. Juni 2019 statt.
 
 ## *Sympatische Männer*  
 mit Tanzlaune sind bei uns jederzeit willkommen!  

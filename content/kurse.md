@@ -9,41 +9,38 @@ menu:
 
 # Kurse für Anfänger und Wiederanfänger
 
-## Kurs 911  
+## Kurs 921  
 ## Anfängerkurs für Paare und Singles (mit Schnupperabend)  
 donnerstags, 18:30 - 20:00 Uhr  
-Start: 17\. Januar 2019  
+Start: 02\. Mai 2019  
 
-Kosten: 145,00 € pro Person, 12 Abende  
-incl. Samstagstanz und Tanzfrühstück  
+Kosten: 95,00 € pro Person, 7 Abende  
+incl. Samstagstanz  
 Ermäßigung für Mitglieder des Schulsportvereins 10,- €  
 
 Folgekurse  
-Kurs 921, Start: 02\. Mai 2019  
 Kurs 931, Start: 29\. August 2019  
 
-## Kurs 912  
+## Kurs 922  
 ## Fortgeschrittene Gruppe 1  
 freitags, 19:00 - 20:30 Uhr  
-Start: 18\. Januar 2019  
+Start: 03\. Mai 2019  
 
-Kosten: 145,00 € pro Person, 12 Abende  
-incl. Samstagstanz und Tanzfrühstück  
+Kosten: 95,00 € pro Person, 7 Abende  
+incl. Samstagstanz  
 Ermäßigung für Mitglieder des Schulsportvereins 10,- €  
 
 Folgekurse  
-Kurs 922, Start: 03\. Mai 2019  
 Kurs 932, Start: 30\. August 2019  
 
-## Kurs 913  
+## Kurs 923  
 ## Fortgeschrittene Gruppe 2  
 donnerstags, 20:00 - 21:30 Uhr  
-Start: 17\. Januar 2019  
+Start: 02\. Mai 2019  
 
-Kosten: 145,00 € pro Person, 12 Abende  
-incl. Samstagstanz und Tanzfrühstück  
+Kosten: 95,00 € pro Person, 7 Abende  
+incl. Samstagstanz  
 Ermäßigung für Mitglieder des Schulsportvereins 10,- €  
 
 Folgekurse  
-Kurs 923, Start: 02\. Mai 2019  
 Kurs 933, Start: 29\. August 2019  

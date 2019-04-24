@@ -9,11 +9,12 @@ menu:
 
 # Samstagstanz  
 
-Tanzen zusammen mit Freunden in lockerer und angenehmer Atomsphäre. Wir freuen uns über euren Beitrag von kleinen Leckereien für unser Buffet. Gäste sind gerne willkommen!  
+Tanzen zusammen mit Freunden in lockerer und angenehmer Atomsphäre.  
+Gäste sind gerne willkommen!  
 
 Termine
 Samstag, 15. Juni 2019  
-Samstag, 09. November 2019  
+Samstag, 16. November 2019  
 
 jeweils von 20.00 – 23.00 Uhr  
 
