@@ -12,7 +12,7 @@ menu:
 Tanzen zusammen mit Freunden in lockerer und angenehmer Atomsphäre.  
 Gäste sind gerne willkommen!  
 
-Termine
+Termine  
 Samstag, 15. Juni 2019  
 Samstag, 16. November 2019  
 
