@@ -8,7 +8,7 @@ menu:
 ---
 
 # Fortgeschrittene 2
-## Kurs 923
+## Kurs 933
 
 Die Gruppe hat ein so großes Repertoire, so dass immer mal lange nicht getanzte Kombinationen wieder aufgenommen und trainiert werden.  
 
@@ -17,12 +17,17 @@ Probieren Sie es aus!
 
 <span style="font-size: 1.3em;">**[➡ jetzt anmelden](kontakt)**</span>
 
-### Kurs 923 tanzt am  
+### Kurs 933 tanzt am  
 
-02\. Mai 2019  
-09\. Mai 2019  
-16\. Mai 2019  
-23\. Mai 2019  
-06\. Juni 2019  
-13\. Juni 2019  
-27\. Juni 2019 (Abschlussabend)  
+29\. August 2019  
+05\. September 2019  
+12\. September 2019  
+19\. September 2019  
+26\. September 2019  
+17\. Oktober 2019  
+24\. Oktober 2019  
+31\. Oktober 2019  
+07\. November 2019  
+14\. November 2019  
+21\. November 2019  
+28\. November 2019 (Abschlussabend)  

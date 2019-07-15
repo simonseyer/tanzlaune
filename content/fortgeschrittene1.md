@@ -8,7 +8,7 @@ menu:
 ---
 
 # Fortgeschrittene 1
-## Kurs 922
+## Kurs 932
 
 Wir unterrichten die klassischen Standard-Tänze wie Langsamer Walzer, Foxtrott, Tango, Wiener Walzer und lateinamerikanische Tänze wie Cha-Cha-Cha, Rumba, Samba und Jive. Das Aufwärmtraining zu Stundenbeginn ist bei uns Ritual.  
 
@@ -16,12 +16,17 @@ Auch wenn wir keine offiziellen Pausen einlegen, steht jederzeit ein Mineralwass
 
 <span style="font-size: 1.3em;">**[➡ jetzt anmelden](kontakt)**</span>
 
-### Kurs 922 tanzt am
+### Kurs 932 tanzt am
 
-03\. Mai 2019  
-10\. Mai 2019  
-17\. Mai 2019  
-24\. Mai 2019  
-07\. Juni 2019  
-14\. Juni 2019  
-28\. Juni 2019 (Abschlussabend)  
+30\. August 2019  
+06\. September 2019  
+13\. September 2019  
+20\. September 2019  
+27\. September 2019  
+18\. Oktober 2019  
+25\. Oktober 2019  
+01\. November 2019  
+08\. November 2019  
+15\. November 2019  
+22\. November 2019  
+29\. November 2019 (Abschlussabend)  

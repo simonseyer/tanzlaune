@@ -10,13 +10,14 @@ Kind: home
 
 ## Tanzen mit guter Laune  
 
-Nach den schönen Ostertagen habt ihr sicher große Lust weiter zu tanzen!  
-Die Kurse starten am 02. und 03. Mai 2019.  
-Wir freuen uns auf euch!
+Unsere Tanzveranstaltungen beginnen wieder am 29. August 2019  
+Bis dahin wünschen wir allen einen schönen Hochsommer und  
+freuen uns euch dann wieder zu sehen!  
 
-## Samstagstanz
+## Tanzfrühstück
 
-Unser nächster lockerer Samstagstanz findet am 15. Juni 2019 statt.
+Die erste Sonderveranstaltung findet am 22. September 2019 statt.  
+Wir laden zum Tanzfrühstück ein.  
 
 ## *Sympatische Männer*  
 mit Tanzlaune sind bei uns jederzeit willkommen!  
