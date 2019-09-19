@@ -19,15 +19,11 @@ Spaß und gute Laune werden wir vermitteln.
 
 ## Kurs 931 tanzt am
 
-29\. August 2019  
-05\. September 2019  
-12\. September 2019  
-19\. September 2019  
-26\. September 2019  
-17\. Oktober 2019  
-24\. Oktober 2019  
-31\. Oktober 2019  
-07\. November 2019  
-14\. November 2019  
-21\. November 2019  
-28\. November 2019 (Abschlussabend)  
+27\. September 2019  
+18\. Oktober 2019  
+25\. Oktober 2019  
+01\. November 2019  
+08\. November 2019  
+15\. November 2019  
+22\. November 2019  
+29\. November 2019 (Abschlussabend)  
