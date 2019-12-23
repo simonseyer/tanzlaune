@@ -26,7 +26,7 @@ Matthias Richter
 Telefon: [+49 611 240 56 21](tel:+496112405621)  
 Handy: [+49 175 37 30 753](tel:+491753730753)  
 E-Mail: [schulsportverein@hotmail.com](mailto:schulsportverein@hotmail.com)    
-Internet: [www.schulsportverein.de](www.schulsportverein.de)  
+Internet: [www.schulsportverein.de](https://www.schulsportverein.de)  
 
 **Vertretungsberechtigter Vorstand:** Matthias Richter, Oliver Gorgels, Simone Niederprüm  
 **eingetragen beim** Amtsgericht Wiesbaden - Registergericht - Registerblatt VR 3050 
