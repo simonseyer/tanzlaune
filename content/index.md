@@ -10,20 +10,17 @@ Kind: home
 
 ## Tanzen mit guter Laune  
 
-Freitags findet ein neuer  
-*Anfängerkurs* statt!  
-Es geht los am 27. September 2019, 19:00 Uhr.  
-Bitte unter [KURSE](kurse) nachsehen.  
+wünscht allen Tanzenden, Freunden und Freundinnen sowie allen Bekannten  
+ein schönes Weihnachtsfest und einen guten Rutsch ins Neue Jahr!  
 
-Alle anderen Tanzveranstaltungen laufen bereits.  
+Die Tanzkurse starten wieder am 16. und 17. Januer 2020.  
+Wir freuen uns euch wieder zu sehen!
 
-## Tanzfrühstück und Samstagstanz
+## Mit besten Wünschen
 
-Am 22. September 2019 findet unser Tanzfrühstück statt.  
-Der nächste Samstagstanz ist am 16. November 2019  
+Henry  
+mit allen Helfern und Mitarbeitern  
+des 1. Wiesbadener Schulsportvereins
 
 ## *Sympatische Männer*  
 mit Tanzlaune sind bei uns jederzeit willkommen!  
-
-Wir wünschen allen einen sonnigen Herbst,  
-gerne gemischt mit Regenschauern.  

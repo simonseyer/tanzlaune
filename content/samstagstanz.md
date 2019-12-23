@@ -10,11 +10,13 @@ menu:
 # Samstagstanz  
 
 Tanzen zusammen mit Freunden in lockerer und angenehmer Atomsphäre.  
-Gäste sind gerne willkommen!  
+Über Gäste freuen wir uns!  
 
 Termine  
-Samstag, 16. November 2019  
+Samstag, 15. Februar 2020  
+Samstag, 20. Juni 2020  
+Samstag, 14. November 2020  
 
 jeweils von 20.00 – 23.00 Uhr  
 
-Bitte auch nach den Tanzfrühstücksterminen schauen.  
+Tanzfrühstückstermine bitte auch beachten.  

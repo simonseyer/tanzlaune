@@ -14,7 +14,9 @@ Das letzte Mal waren euere Leckereien einfach super!
 Im Voraus dafür vielen Dank.
 
 Termine für das **Tanzfrühstück**:  
-Sonntag, 22. September 2019
+Sonntag, 15. März 2020  
+Sonntag, 17. Mai 2020  
+Sonntag, 27. September 2020  
 
 von 11.00 – 14.00 Uhr  
 

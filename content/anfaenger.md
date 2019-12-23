@@ -8,7 +8,7 @@ menu:
 ---
 
 # Anfängerkurs 1 für Paare und Singles
-## Kurs 931
+## Kurs 2011
 
 Sie lernen die klassischen Standard-Tänze wie Langsamer Walzer, Foxtrott, Tango, Wiener Walzer und lateinamerikanische Tänze wie Cha-Cha-Cha, Rumba, Samba und Jive.  
 
@@ -17,13 +17,17 @@ Spaß und gute Laune werden wir vermitteln.
 
 <span style="font-size: 1.3em;">**[➡ jetzt anmelden](kontakt)**</span>
 
-## Kurs 931 tanzt am
+## Kurs 2011 tanzt am
 
-27\. September 2019  
-18\. Oktober 2019  
-25\. Oktober 2019  
-01\. November 2019  
-08\. November 2019  
-15\. November 2019  
-22\. November 2019  
-29\. November 2019 (Abschlussabend)  
+17\. Januar 2020  
+24\. Januar 2020  
+31\. Januar 2020  
+07\. Februar 2020  
+14\. Februar 2020  
+21\. Februar 2020  
+28\. Februar 2020  
+06\. März 2020  
+13\. März 2020  
+20\. März 2020  
+27\. März 2020  
+03\. April 2020 (Abschlussabend)  
