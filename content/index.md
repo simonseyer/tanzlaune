@@ -8,6 +8,8 @@ menu:
 Kind: home
 ---
 
+## Tanzen mit guter Laune  
+
 Alle Tanzangebote sind vorläufig wegen der Weiterverbreitung des Corona Virus ausgesetzt.  
 
 Alternativen könnten sein:  
