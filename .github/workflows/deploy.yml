@@ -1,0 +1,29 @@
+name: Deploy to tanzlaune.de
+on:
+  push:
+    branches:
+      - master
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - run: bundle install
+      - uses: actions/checkout@v3
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.18'
+      - name: Build website
+        run: hugo --baseURL https://www.tanzlaune.de/
+      - name: Resize images
+        run: ./scripts/resize_images.sh
+      - name: Optimize images
+        run: bundle exec image_optim -r --cache-dir tmp/image_cache public
+      - name: Deploy to branch tanzlaune.de
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: tanzlaune.de
+      - name: Update website
+        run: curl https://www.tanzlaune.de/git-pull
