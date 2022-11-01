@@ -1,75 +1,48 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.tanzlaune.de/tanzfruehstueck/</loc>
     <lastmod>2018-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tanzlaune.de/kizomba/</loc>
     <lastmod>2017-08-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tanzlaune.de/kurse/</loc>
     <lastmod>2017-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tanzlaune.de/anfaenger/</loc>
     <lastmod>2016-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tanzlaune.de/fortgeschrittene1/</loc>
     <lastmod>2016-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tanzlaune.de/fortgeschrittene2/</loc>
     <lastmod>2016-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tanzlaune.de/impressum/</loc>
     <lastmod>2016-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tanzlaune.de/kontakt/</loc>
     <lastmod>2016-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tanzlaune.de/samstagstanz/</loc>
     <lastmod>2016-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tanzlaune.de/wer/</loc>
     <lastmod>2016-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tanzlaune.de/</loc>
     <lastmod>2016-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tanzlaune.de/wo/</loc>
     <lastmod>2016-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.tanzlaune.de/workshops/</loc>
     <lastmod>2016-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.tanzlaune.de/categories/</loc>
+  </url><url>
+    <loc>https://www.tanzlaune.de/tags/</loc>
   </url>
-  
-  <url>
-    <loc>https://www.tanzlaune.de/</loc>
-    <lastmod>2018-03-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
 </urlset>
