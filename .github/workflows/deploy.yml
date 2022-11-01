@@ -15,7 +15,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.18'
+          hugo-version: '0.105.0'
       - name: Build website
         run: hugo --baseURL https://www.tanzlaune.de/
       - name: Resize images
