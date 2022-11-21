@@ -4,7 +4,7 @@ title = "Tanzlaune"
 theme = "schulsportverein"
 
 [params]
-	cdn = true
+	cdn = false
     partner = false
 	description = "Tanzen mit guter Laune"
     defaultHeader = "header/two.jpg"
